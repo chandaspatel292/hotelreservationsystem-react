@@ -1,3 +1,3 @@
 # hotelreservationsystem-react
-# to run the program
+to run the program
 npm run start
